@@ -3,10 +3,10 @@
   
   <br /> <br />
   프로젝트 기획서 링크
-    - https://docs.google.com/document/d/1pJgfgTm8WKjylxQg0sT8yvIPjCqVUTuW-OYFpjxoUYo/edit?usp=sharing 
+    - https://docs.google.com/document/d/1NVAXYba0Fus0O7YMNdzyo7cReB0HugSb/edit
   
   API 명세서 링크 
-    - https://docs.google.com/spreadsheets/d/1fDD6mqZxUcQpW7IcBPTBPQGmiG087Aly/edit?usp=sharing&ouid=113908616382218905465&rtpof=true&sd=true
+    - https://docs.google.com/spreadsheets/d/1_waFfNO5WE9wbpgFeNqQYrXh3gA_OzHE/edit#gid=446451871
   <br /> <br />
 
  ---------
